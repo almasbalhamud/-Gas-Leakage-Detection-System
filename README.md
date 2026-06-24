@@ -33,18 +33,19 @@ This project demonstrates how to detect dangerous gas leaks using an MQ-2 gas se
 
 ## 📸 Project Demonstration
 
-### Safe State
+## Safe State
 
-<img src="images/safe-state.jpg" width="500">
+![Safe State](safe-state.jpg)
+
 
 **Output:**
 - LCD displays "Safe Area"
 - Gas level is shown on the screen
 - Buzzer remains OFF
 
-### Warning State
+## Warning State
 
-<img src="images/warning-state.jpg" width="500">
+![Warning State](warning-state.jpg)
 
 **Output:**
 - LCD displays "Warning!"
